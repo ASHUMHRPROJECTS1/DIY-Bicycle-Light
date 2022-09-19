@@ -1,5 +1,5 @@
 # DIY-Bicycle-Light
-!
+
 > If you like cycling at night or any other time that\'s dark, this
 > video will teach you how to make your own bicycle headlight. If
 > you\'re trying to go for a night time bike ride but can\'t because
@@ -186,15 +186,11 @@
 > Your **DIY Bicycle Lamp DIY Bicycle Lamp** is now ready to lightup the
 > path in darkness.
 
-**New users will also get some coupons while registering atvia this blue
-link.**
+**New users will also get some coupons while registering at [JLCPCB](https://jlcpcb.com/IAT)[ ](https://jlcpcb.com/IAT) via this blue link..**
 
 **Thank you for reading this guide, hopefully**, **this guide provides
 full steps to help you to create your own this guide provides full steps
-to help you to create your ownDIY**
-
-**Bicycle Lamp.If you have any questions please post them in the comment
-section below. If you have any questions please post them in the comment
+to help you to create your own DIY Bicycle Lamp.If you have any questions please post them in the comment
 section below.**
 
      
